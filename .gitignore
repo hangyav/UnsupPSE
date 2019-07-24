@@ -3,3 +3,6 @@ __pycache__
 *.swp
 *.pyc
 *.ipynb_checkpoints
+data
+results
+third_party
