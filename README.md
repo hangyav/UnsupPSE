@@ -116,7 +116,7 @@ Steps:
 
 Related publications:
 
-[1] V. Hangya and A. Fraser, Unsupervised Parallel Sentence Extraction with Parallel Segment Detection Helps Machine Translation in Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, 2019.
+[1] V. Hangya and A. Fraser, [Unsupervised Parallel Sentence Extraction with Parallel Segment Detection Helps Machine Translation](https://www.aclweb.org/anthology/P19-1118) in Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL), 2019.
 
 [2] V. Hangya, F. Braune, Y. Kalasouskaya, and A. Fraser, [Unsupervised Parallel Sentence Extraction from Comparable Corpora.](https://workshop2018.iwslt.org/downloads/Proceedings_IWSLT_2018.pdf#page=22) in Proceedings of the 15th International Workshop on Spoken Language Translation (IWSLT), 2018
 
@@ -127,6 +127,7 @@ Related publications:
 author = {Hangya, Viktor and Fraser, Alexander},
 title = {{Unsupervised Parallel Sentence Extraction with Parallel Segment Detection Helps Machine Translation}},
 booktitle = {Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics},
+pages={1224--1234},
 year = {2019}
 }
 
